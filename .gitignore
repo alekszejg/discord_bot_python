@@ -1,0 +1,6 @@
+# ignore these folders but do install your own ffmpeg
+__pycache__/
+ffmpeg/
+
+# private
+.env
